@@ -32,7 +32,7 @@
 
 1. Mức độ **Low-level-security**
 
-   Thử kiểm tra *View Source* php của mức độ này thì thấy chúng ta đều có thể upload bất kỳ một file nào lên **server**.
+   Thử kiểm tra *View Source* của mức độ này thì thấy chúng ta đều có thể upload bất kỳ một file nào lên **server**.
 
    ![](./images/11-23-39.png)
 
