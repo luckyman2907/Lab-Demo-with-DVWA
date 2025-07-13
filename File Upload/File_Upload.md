@@ -172,6 +172,8 @@
    ```bash
    |mv ../../hackable/uploads/web_shell.jpg ../../hackable/uploads/web_shell.php
    ```
+   
+   ![](./images/16-21-46.png)
 
    Truy cập lại vào đường dẫn upload file *web_shell.php* trên **server** thao túng param **cmd**
    
