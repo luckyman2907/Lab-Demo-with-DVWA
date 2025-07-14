@@ -57,7 +57,7 @@ File Inclusion có 2 kiểu tấn công phổ biến, đó là **Local File Incl
 
    ![](./images/23-03-53.png)
    
-   Do web_shell này được thực thi thông qua biến page nên khi nhập lệnh trong ô input kia mà truyền lệnh từ ngoài vào ngay trên URL
+   Do web_shell này được kích hoạt thông qua biến page nên khi nhập lệnh trong ô input kia sẽ không thực thi được, cho nên ta phải truyền lệnh từ ngoài vào ngay trên URL
 
    ![](./images/23-17-46.png)
 
